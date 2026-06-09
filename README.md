@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradipati-tripathi&show_icons=true&locale=en" alt="pradipati-tripathi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradipati-tripathi&" alt="pradipati-tripathi" /></p>
+
+
+<p> kidhaer ho tum tu msg call kuch to kr mujhe kam hai tere se our hai kha tu </p>
